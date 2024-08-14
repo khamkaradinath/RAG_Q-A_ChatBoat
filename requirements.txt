@@ -1,0 +1,12 @@
+langchain_openai
+langchain
+python-dotenv
+langchain_community
+langchain_core
+langchain_groq
+streamlit
+langchain_huggingface
+faiss-cpu
+langchain-text-splitters
+langchain-openai
+pypdf
